@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Belajar React",
+        "tags": ["React", "Frontend"],
+        "date": "2024-01-01"
+    },
+    {
+        "title": "Belajar Laravel",
+        "tags": ["Laravel", "Backend"],
+        "date": "2024-01-02"
+    }
+]
